@@ -1,3 +1,3 @@
 name= "Ryan"
-print ("hello world!" + namw)
+print ("hello world!" + name)
 
